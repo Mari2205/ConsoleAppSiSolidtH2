@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppSiSolidtH2", "ConsoleAppSiSolidtH2\ConsoleAppSiSolidtH2.csproj", "{78083DB4-7BD6-4564-BE9F-99D5B78EC023}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78083DB4-7BD6-4564-BE9F-99D5B78EC023}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78083DB4-7BD6-4564-BE9F-99D5B78EC023}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78083DB4-7BD6-4564-BE9F-99D5B78EC023}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78083DB4-7BD6-4564-BE9F-99D5B78EC023}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAFC326F-4AE2-4AB2-9BFC-0C278EB51CE0}
+	EndGlobalSection
+EndGlobal
