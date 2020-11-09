@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleAppSiSolidtH2
 
-    // jeg gør denne class abstract fordi det skal kunne til gås ad class der arver 
+    // jeg gør denne class abstract fordi det skal kunne til gås ad class der arver
 {/// <summary>
 /// denne class er til at convert text to html
 /// </summary>
